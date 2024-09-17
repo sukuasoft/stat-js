@@ -1,0 +1,23 @@
+{
+  "name": "stat-js",
+  "version": "1.0.0",
+  "description": "It is a lightweight and easy-to-use library for Node.js that offers basic functions essential for simple statistical analysis",
+  "main": "index.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sukuasoft/stat-js.git"
+  },
+  "keywords": [
+    "nodejs",
+    "basic",
+    "statistics"
+  ],
+  "author": "Sebastiao Sukuakueche",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sukuasoft/stat-js/issues"
+  },
+  "homepage": "https://github.com/sukuasoft/stat-js#readme"
+}
